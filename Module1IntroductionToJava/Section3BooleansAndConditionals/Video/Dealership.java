@@ -58,5 +58,6 @@ public class Dealership {
                 System.out.println("invalid option");
                 break;
         }
+        scan.close();
     }
 }
